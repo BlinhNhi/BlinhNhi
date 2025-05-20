@@ -1,6 +1,6 @@
 <h1>Overall</h1>
 
-👋 I'm Tran Gia Toan ,  dedicated Backend Developer with a solid grasp of C#, and a passion for architecting robust and scalable web applications.
+👋 I'm Tran Gia Toan ,  dedicated FrontEnd Developer with a solid grasp of React, and a passion for architecting robust and scalable web applications.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -12,7 +12,15 @@
 - Email: trantoan1682016@gmail.com
 ---
 
-### My Personal Projects
+#### MinhCoiStore ( 01-Sep-2024 - 01-Dec-2024 )
+- **Technologies and Languages:** .NET, React, SQL
+- **Description:** MinhCoiStore is a shoe sales system implemented using ASP.NET, ReactJS, SQL Server.
+- **GitHub :** https://github.com/BlinhNhi/MinhStore
+
+#### Phongtro1234 ( 01-Jan-2024 - 01-Feb-2024 )
+- **Technologies and Languages:** NodeJS, React, SQL
+- **Description:** Là 1 dự án được phát triển từ React JS , Node Js , My SQL. Dự Án Phongtro123 được phát triển để kết nối người thuê và chủ nhà trọ có thể tìm kiếm nhà thuê dễ dàng hơn. 
+- **GitHub :** https://github.com/BlinhNhi/PhongTro1234
 
 #### LeetCode Challenges (01-September-2023 - Present)
 - **Technologies and Languages:** Java
